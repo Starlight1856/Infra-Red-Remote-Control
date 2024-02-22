@@ -1,0 +1,11 @@
+Warning[207] C:\PIC\NEC_IR\NECIR05\NECIR05.ASM 63 : Found label after column 1. (retie)
+Message[302] C:\PIC\NEC_IR\NECIR05\NECIR05.ASM 76 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\PIC\NEC_IR\NECIR05\NECIR05.ASM 77 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\PIC\NEC_IR\NECIR05\NECIR05.ASM 83 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\PIC\NEC_IR\NECIR05\NECIR05.ASM 84 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\PIC\NEC_IR\NECIR05\NECIR05.ASM 87 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\PIC\NEC_IR\NECIR05\NECIR05.ASM 90 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\PIC\NEC_IR\NECIR05\NECIR05.ASM 93 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\PIC\NEC_IR\NECIR05\NECIR05.ASM 96 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\PIC\NEC_IR\NECIR05\NECIR05.ASM 102 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\PIC\NEC_IR\NECIR05\NECIR05.ASM 105 : Register in operand not in bank 0.  Ensure that bank bits are correct.

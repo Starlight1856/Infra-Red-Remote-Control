@@ -1,0 +1,78 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Thu Feb 22 14:29:05 2024
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x00002e
+                   .org_3       code   0x000040    program   0x000112
+   .config_2007_NECIR05.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x00001a      
+                            0x000040    0x0000c8      
+                            0x002007    0x002007      
+            162 out of 4359 program addresses used, program memory utilization is 3%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                      ISR   0x000004    program     static C:\pic\NEC_IR\necir05\necir05.asm
+               Logic0Mark   0x00009a    program     static C:\pic\NEC_IR\necir05\necir05.asm
+              Logic0Space   0x00009f    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                 MainLoop   0x000061    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                  NextBit   0x000077    program     static C:\pic\NEC_IR\necir05\necir05.asm
+              OndelayLoop   0x0000c4    program     static C:\pic\NEC_IR\necir05\necir05.asm
+               Pulse38kHz   0x000097    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                  SendBit   0x00007c    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                 SendByte   0x000074    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                  SendMsg   0x000063    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                SetLogic0   0x0000b6    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                SetLogic1   0x0000bd    program     static C:\pic\NEC_IR\necir05\necir05.asm
+            SetStartPulse   0x000082    program     static C:\pic\NEC_IR\necir05\necir05.asm
+               Space38kHz   0x0000ab    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                    Start   0x000040    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                Zero0Mark   0x0000ae    program     static C:\pic\NEC_IR\necir05\necir05.asm
+               Zero0Space   0x0000b3    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                    nextt   0x00008f    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                   nextt2   0x000093    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                   nextt3   0x0000a2    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                    retie   0x00001b    program     static C:\pic\NEC_IR\necir05\necir05.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                      ISR   0x000004    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                    retie   0x00001b    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                    Start   0x000040    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                 MainLoop   0x000061    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                  SendMsg   0x000063    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                 SendByte   0x000074    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                  NextBit   0x000077    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                  SendBit   0x00007c    program     static C:\pic\NEC_IR\necir05\necir05.asm
+            SetStartPulse   0x000082    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                    nextt   0x00008f    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                   nextt2   0x000093    program     static C:\pic\NEC_IR\necir05\necir05.asm
+               Pulse38kHz   0x000097    program     static C:\pic\NEC_IR\necir05\necir05.asm
+               Logic0Mark   0x00009a    program     static C:\pic\NEC_IR\necir05\necir05.asm
+              Logic0Space   0x00009f    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                   nextt3   0x0000a2    program     static C:\pic\NEC_IR\necir05\necir05.asm
+               Space38kHz   0x0000ab    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                Zero0Mark   0x0000ae    program     static C:\pic\NEC_IR\necir05\necir05.asm
+               Zero0Space   0x0000b3    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                SetLogic0   0x0000b6    program     static C:\pic\NEC_IR\necir05\necir05.asm
+                SetLogic1   0x0000bd    program     static C:\pic\NEC_IR\necir05\necir05.asm
+              OndelayLoop   0x0000c4    program     static C:\pic\NEC_IR\necir05\necir05.asm
+
+
